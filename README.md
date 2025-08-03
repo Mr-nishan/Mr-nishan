@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Laravel Developer | AI & ML Explorer | Crafting Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-nishan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-nishan" />
+  <img src="20250803_223005_0001.gif" alt="mr-nishan" />
 </p>
 
 <p align="center">
