@@ -2,8 +2,14 @@
 <h3 align="center">🚀 Full Stack Laravel Developer | AI & ML Explorer | Crafting Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="20250803_223005_0001.gif" alt="mr-nishan" />
+  <img src="" alt="mr-nishan" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-nishan/mr-nishan/main/20250803_223005_0001.gif" width="200" alt="Coding Gif" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/mr-nishan/mr-nishan/main/creative.gif" width="200" alt="Creative Gif" />
+</p>
+
 
 - 🔭 Currently diving deep into **Artificial Intelligence and Machine Learning**
 - 🛠️ Specializing in **Laravel**, **React**, and **full-stack systems**
