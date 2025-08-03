@@ -5,12 +5,6 @@
   <img src="20250803_223005_0001.gif" alt="mr-nishan" />
 </p>
 
-<p align="center">
-  <img src="YOUR_FIRST_GIF_LINK_HERE" width="200" alt="Coding Gif" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="YOUR_SECOND_GIF_LINK_HERE" width="200" alt="Creative Gif" />
-</p>
-
 - 🔭 Currently diving deep into **Artificial Intelligence and Machine Learning**
 - 🛠️ Specializing in **Laravel**, **React**, and **full-stack systems**
 - 🌱 Always learning and building things that matter
